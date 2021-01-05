@@ -1,0 +1,8 @@
+THANKYOU FOR VISIT ! 
+
+1. In order to center widgets use coloumn and then as property define mainAxisAlignment : MainAxisAlignment.center 
+2. For using dart theme use MaterialApp and as property define 
+  theme : ThemeData (
+  brightness : Brightness.dark , 
+  primaryColor : Colors.orange[700] , 
+  )
